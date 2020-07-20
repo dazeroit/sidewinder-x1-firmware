@@ -22,11 +22,11 @@
 
 ------------
 
-![GitHub](https://img.shields.io/badge/branch-MGL%20T2100%202.0.x-blue)
+![GitHub](https://img.shields.io/badge/branch-MGL_T2100_2.0.x-blue)
 ![GitHub](https://img.shields.io/badge/test-progress-yellow)
 ![GitHub](https://img.shields.io/badge/released-no-critical)
 
-> **branch : MGL T2100 2.0.x**<br>
+> **branch : MGL_T2100_2.0.x**<br>
 > firmware version : Marlin 2.0.x<br>
 > motherboard : MKS GEN L<br>
 > drivers : TMC2100 (or equivalent)<br>
